@@ -34,11 +34,9 @@ https://lb-mvtv-live.v2h-cdn.com/redirect/tptv/tptv.stream?type=m3u8
 https://n-edge-1-th.v2h-cdn.com/mixmajor_m/mixmajor/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="12" ch-number="12" tvg-id="MVMall DD" tvg-name="MVMall DD" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/channel/40_y_V4AeGl0yJXpnzFfKDO7C1rMTYdcIP2kE.png",MVMall DD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://n-edge-1-th.v2h-cdn.com/rama_m/rama/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="13" ch-number="13" tvg-id="MVMall Home" tvg-name="MVMall Home" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/channel/112_y_2uKgIhyzBtmJCVlqGTaX16b9A3HenR0D.png",MVMall Home
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://n-edge-1-th.v2h-cdn.com/mvnews/mvnews/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="14" ch-number="14" tvg-id="MVMall Trend" tvg-name="MVMall Trend" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/channel/42_y_LtT0Jz4Qfr7asiVClxpGwgBv2qZDK3mo.png",MVMall Trend
@@ -87,11 +85,9 @@ https://hls-nginx.v2h-cdn.com/hls/ch8myStream.m3u8
 https://lb-mvtv-live.v2h-cdn.com/redirect/boom_anime/boom_anime.stream?type=m3u8
 
 #EXTINF:-1 tvg-chno="29" ch-number="29" tvg-id="MONO 29" tvg-name="MONO 29" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/channel/128_y_KUvdGmb2hpV41ni5rCk9OlFoXePMA80Q.png",MONO 29
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://hls-nginx.v2h-cdn.com/hls/MonomyStream.m3u8
 
 #EXTINF:-1 tvg-chno="30" ch-number="30" tvg-id="MCOT" tvg-name="MCOT" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/channel/129_y_hG7Nj2qWnldBu0fkMDyvT8CwYXLI649F.png",MCOT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/mcothd/mcothd.stream?type=m3u8
 
 #EXTINF:-1 tvg-chno="31" ch-number="31" tvg-id="ONE" tvg-name="ONE" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/channel/130_y_3Lx4j6ZzpIidKPqChaF2QRYeWorw79Jv.png",ONE
