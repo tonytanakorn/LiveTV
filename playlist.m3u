@@ -173,3 +173,9 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 
 #EXTINF:-1 tvg-chno="999" ch-number="999" tvg-id="IPTV THAILAND.th" tvg-name="https://t.me/iptvth" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/iptvth.png",https://t.me/iptvth
 https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/intro.mp4
+
+https://dcs-live-ue1.mp.lura.live/server/play/5Awwm3GfagVzfpdA/rendition.m3u8?track=video-0&anvsid=m177618729-n4b94495bfdc6ff9599e20132d66616e1
+
+https://content-aaps1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/c.m3u8?pbs=d9a9c562e7e7466d969fe9be6b5c002d
+
+https://dai.google.com/linear/hls/pb/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/b7ad9b87-9573-43c6-af91-35eca96b6f85:TPE2/variant/df9d5f9fc8201f0878fd4a77927eea3b/bandwidth/3338376.m3u8
